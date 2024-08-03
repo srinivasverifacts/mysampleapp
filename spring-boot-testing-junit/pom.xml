@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.dss.springboot.testing.junit</groupId>
 	<artifactId>spring-boot-testing-junit</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1-RELEASE</version>
 	<name>spring-boot-testing-junit</name>
 	<description>Spring-Boot_Security</description>
 	<properties>
