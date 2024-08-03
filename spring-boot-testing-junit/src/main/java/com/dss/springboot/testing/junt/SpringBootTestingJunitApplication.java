@@ -10,4 +10,8 @@ public class SpringBootTestingJunitApplication {
 		SpringApplication.run(SpringBootTestingJunitApplication.class, args);
 	}
 
+@GetMapping("/")
+public String getMsg(){
+return "Hello how are you...?";
+}
 }
