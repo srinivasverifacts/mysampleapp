@@ -58,7 +58,11 @@ public class MovieController {
 	  movieService.deleteMovie(id);
 	  
 	  }
-	 
+	
+public void test(){
+
+//logic here;
+} 
 	
 	
 	
